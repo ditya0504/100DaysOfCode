@@ -7,4 +7,6 @@ This is my 1st day. I have started learning python from imfosys website.
 *Array in python
 ### Day-3
 * HCF in python
+### Day-4
+* list in python
 
