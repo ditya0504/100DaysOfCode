@@ -11,4 +11,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * list in python
 ### Day-5
 * Tuple in python
-
+### Day-6
+* two number product
