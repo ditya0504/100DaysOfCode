@@ -13,3 +13,11 @@ This is my 1st day. I have started learning python from imfosys website.
 * Tuple in python
 ### Day-6
 * two number product
+### Day-7
+* no of flight.py
+### Day-8
+* quize.py
+### Day-9
+* greter.py
+### Day-10
+* true.py

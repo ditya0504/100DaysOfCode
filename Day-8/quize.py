@@ -1,0 +1,12 @@
+num1 = 5
+num2 = 6
+add = num1 + num2
+print("add = ", add)
+sub = num1 - num2
+print("sub = ", sub)
+multiple = num1 * num2
+print("multiple = ", multiple)
+div = num1 / num2
+print("div = ", div)
+per = num1 % num2
+print("percent = ", per)
