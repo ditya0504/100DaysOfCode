@@ -27,3 +27,7 @@ This is my 1st day. I have started learning python from imfosys website.
 * operator
 ### Day-13
 * list
+### Day-14
+* list 1
+### Day-15
+* tuple
