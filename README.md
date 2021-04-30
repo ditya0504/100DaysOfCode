@@ -31,3 +31,9 @@ This is my 1st day. I have started learning python from imfosys website.
 * list 1
 ### Day-15
 * tuple
+### Day-16
+* array
+### Day-17
+* function
+### Day-18
+* array1
