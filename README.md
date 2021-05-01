@@ -37,3 +37,7 @@ This is my 1st day. I have started learning python from imfosys website.
 * function
 ### Day-18
 * array1
+### Day-19
+* function1
+### Day-20
+* dictionry
