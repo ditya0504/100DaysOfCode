@@ -43,3 +43,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * dictionry
 ### Day-21
 * array1
+### Day-22
+* array2
