@@ -45,3 +45,9 @@ This is my 1st day. I have started learning python from imfosys website.
 * array1
 ### Day-22
 * array2
+### Day-23
+* array3
+### Day-24
+* append
+### Day-25
+* method1
