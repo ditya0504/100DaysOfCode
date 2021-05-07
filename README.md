@@ -51,3 +51,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * append
 ### Day-25
 * method1
+### Day-26
+* string
