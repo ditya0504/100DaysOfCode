@@ -53,3 +53,6 @@ This is my 1st day. I have started learning python from imfosys website.
 * method1
 ### Day-26
 * string
+### Day-27
+* insertion sort
+ 
