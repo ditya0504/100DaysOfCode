@@ -55,4 +55,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * string
 ### Day-27
 * insertion sort
- 
+### Day-28
+* linked list
