@@ -59,3 +59,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * linked list
 ### Day-29
 * decimal to binary
+### Day-30
+* delitio
