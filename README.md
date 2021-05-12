@@ -61,3 +61,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * decimal to binary
 ### Day-30
 * delitio
+### Day-31
+* string
