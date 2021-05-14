@@ -63,3 +63,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * delitio
 ### Day-31
 * string
+### Day-32
+* stack
