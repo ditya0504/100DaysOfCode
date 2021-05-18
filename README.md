@@ -69,3 +69,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * recursion
 ### Day-35
 * murge
+### Day-36
+* time complexity
