@@ -71,3 +71,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * murge
 ### Day-36
 * time complexity
+### Day-37
+* median
