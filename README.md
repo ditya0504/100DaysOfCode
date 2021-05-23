@@ -79,3 +79,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * Bubble sort
 ### Day-40
 * method overloading
+### Day-41
+* deletion short
