@@ -81,3 +81,6 @@ This is my 1st day. I have started learning python from imfosys website.
 * method overloading
 ### Day-41
 * deletion short
+### Day-42
+* calculator
+
