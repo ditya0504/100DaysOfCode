@@ -83,4 +83,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * deletion short
 ### Day-42
 * calculator
-
+### Day-43
+* array   
