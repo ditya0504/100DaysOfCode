@@ -87,3 +87,6 @@ This is my 1st day. I have started learning python from imfosys website.
 * array   
 ### Daay-44
 * 2D array
+### Day-45
+* function
+
