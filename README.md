@@ -89,4 +89,5 @@ This is my 1st day. I have started learning python from imfosys website.
 * 2D array
 ### Day-45
 * function
-
+### Day-46
+* Upcasting
