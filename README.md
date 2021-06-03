@@ -91,3 +91,6 @@ This is my 1st day. I have started learning python from imfosys website.
 * function
 ### Day-46
 * Upcasting
+### Day-47
+* inheritance
+
