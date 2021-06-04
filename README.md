@@ -93,4 +93,6 @@ This is my 1st day. I have started learning python from imfosys website.
 * Upcasting
 ### Day-47
 * inheritance
+### Day-48
+* string
 
