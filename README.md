@@ -95,4 +95,7 @@ This is my 1st day. I have started learning python from imfosys website.
 * inheritance
 ### Day-48
 * string
+### Day-49
+* voerlodaded
+
 
