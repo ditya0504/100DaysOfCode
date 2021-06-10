@@ -101,5 +101,8 @@ This is my 1st day. I have started learning python from imfosys website.
 * practice
 ### Day-51
 * loop
+### Day-52
+* minimum value
+
 
 
